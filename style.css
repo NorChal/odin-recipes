@@ -1,0 +1,31 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1 {
+    color: darkblue;
+    font-weight: 800;
+}
+
+.list {
+    display: inline-block;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+}
+
+ul {
+    background-color: lightblue;
+    border: solid blue;
+}
+
+ol {
+    background-color: lightpink;
+    border: solid salmon;
+}
+
+img {
+    height: auto;
+    width: 200px;
+    display: block;
+}
